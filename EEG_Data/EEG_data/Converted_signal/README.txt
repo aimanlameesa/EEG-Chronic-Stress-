@@ -1,0 +1,17 @@
+filename = ['Conv_exp1.csv',
+ 'Conv_exp2.csv',
+ 'Conv_exp3.csv',
+ 'Conv_exp4.csv',
+ 'Conv_exp6.csv',
+ 'Conv_exp7.csv',
+ 'Conv_exp8.csv',
+ 'Conv_exp9.csv',
+ 'Conv_exp10.csv',
+ 'Conv_exp11.csv',
+ 'Conv_exp12.csv',
+ 'Conv_exp13.csv',
+ 'Conv_exp14.csv',
+ 'Conv_exp15.csv',
+ 'Conv_exp16.csv',
+ 'Conv_exp17.csv']
+
